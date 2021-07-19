@@ -19,3 +19,5 @@ Input features in order:
 
 Output variable:
 1) MEDV: Median value of owner-occupied homes in $1000's [k$]
+
+### Result: Prediction for the median value.
